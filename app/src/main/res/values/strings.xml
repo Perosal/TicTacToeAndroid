@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="reset">Reset</string>
+    <string name="retard_mode">Retard Mode</string>
+    <string name="ai">AI</string>
+    <string name="player">Player</string>
+    <string name="player_one">Player One</string>
+    <string name="player_two">Player Two</string>
+    <string name="normal_mode">Normal Mode</string>
+    <string name="nobody_cares">Nobody Cares</string>
+    <string name="about">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="thanks">Thanks For Buyind This App</string>
+    <string name="aboutapp">AboutApp</string>
+    <string name="compatibility">Compatibility : Android 4.3+</string>
+    <string name="purpuse">Purpuse : Fun … I suppose</string>
+    <string name="resolution">Resolution Tested : 480x800+</string>
+    <string name="company">Company Location : Home</string>
+    <string name="hours">Hours Spent : Days…</string>
+    <string name="appidea">App Idea : 3.11.2018 … probably</string>
+    <string name="by_frozenbrain">By ®FrozenBrain</string>
+
+    <string name="rate_dialog_title">Rate Me</string>
+    <string name="rate_dialog_message">If you like it, than it will help me a lot if you rate my app</string>
+    <string name="rate_dialog_ok">Rate it now</string>
+    <string name="rate_dialog_cancel">No, thanks</string>
+    <string name="rate_dialog_no">Remind me later</string>
+    <string name="release_date">Release Date : 19.12.2018 16:52</string>
+    <string name="ok">Ok</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

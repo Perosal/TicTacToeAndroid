@@ -1,0 +1,52 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    
+    <style name="AppTheme.SliderAnimation">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme.Transparent">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+        <item name ="android:windowBackground">@color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorForeground">#fff</item>
+    </style>
+
+    <style name="Title" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/lightBlack</item>
+        <item name="android:fontFamily">@font/robotobold</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">19sp</item>
+    </style>
+
+    <style name="Text" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/mediumBlack</item>
+        <item name="android:fontFamily">@font/latobold</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="TextBox" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/mediumBlack</item>
+        <item name="android:background">@drawable/rounded_corner</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+</resources>
